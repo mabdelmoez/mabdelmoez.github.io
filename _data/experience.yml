@@ -1,0 +1,83 @@
+# Experience template
+- layout: left
+  company: TX Markets 
+  jobs:
+    - title: Head of Security Engineering (Security Architect/Lead)
+      dates: 2020-present
+    - title: Engineering Technical Lead
+      dates: 2020-2020
+  quote: >
+   Leading security for TX Markets (homegate.ch, ricardo.ch, carforyou.ch, tutti.ch)
+  description: | # this will include new lines to allow paragraphs
+    Design and implement various security features and fixes (Web & Mobile), and implement DecSecOps practices in the CI/CD pipeline.
+    
+    Launch and lead the development effort across the markets, and lead a team of engineers to develop an IAM system, and champion the security in the markets.
+    
+    Conduct threat modelling, and risk & vulnerability assessments, and lead the remediation of the findings in the re-design and development.
+    
+    Code review and auditing (e.g., TypeScript, NodeJS, Go, C++, C\#).
+    
+    Deploy an edge gateway (incl. a firewall), an IAM system, and an AI-powered fraud prevention solution into many markets.
+    
+    Launch, lead and execute different initiatives across the markets, e.g., "Security Guild", "Edge Security", "Extended Detection and Response", "Smooth-Prevent, Detect, React", and more.
+    
+    Third party management (e.g., vendors, security audits, CTF competitions, and bug bounty programs), and manage the security budget.
+    
+- layout: left
+  company: Ricardo AG
+  jobs:
+    - title: Principal Security Engineer (Security Lead)
+      dates: 2015-2016
+    - title: Software Engineering Intern
+      dates: 2012-2015
+
+  description: | # 
+    Review and re-design different system components—additionally, develop enhancements.
+    
+    Design and develop (in NodeJS and Go) fixes and features for cryptography, IAM and session handling.
+    
+    Integrate security standards & DevSecOps practices in the CI/CD pipeline and in the day-to-day operations.
+    
+    Conduct penetration testing, security analysis (static and dynamic), as well as security auditing.
+    
+    Conduct risk & vulnerability assessments and threat modelling and remediate their findings.
+    
+    Code review and auditing (e.g., for TypeScript, NodeJS, Go, Kotlin, Swift).
+    
+    Launch and activate the Incident Response process, and BCM plan.
+    
+    Found and led the CSIRT Team.
+
+- layout: left
+  company: Avaloq Evolution AG
+  jobs:
+    - title: Sr. Security Software Engineer
+      dates: 2017-2019
+    - title: Security Software Engineer 
+      dates: 2016-2017
+  quote: >
+   Technical lead of Web, Mobile and Core banking security.
+  description: | # this will include new lines to allow paragraphs
+    Subject matter expert in various security domains such as cryptography, firewalls, identity and access management as well as web, mobile and hardware security.
+    
+    Architectural and technical security lead for on-boarding and employing security related initiatives, specifications, standards and protocols in the eco-system.
+    
+    Architectural and technical security lead for applying regional and international industry standards (e.g. PSD2).
+    
+    Author, localize and communicate--to stakeholders--the security concepts and reports.
+    
+    Design a distributed IAM mechanism, along with employing HSM for cryptocurrency integration.
+    
+    Design, develop and own security utilities and libraries to handle identity management, cryptography, authentication and authorization for various technology stacks (e.g. PL/SQL, J2EE, REST, SOAP, Spring, etc).
+    
+    Design, evaluate and apply cloud architecture.
+    
+    Network security and architecture incl. Network Zoning, Micro-Segregation, and Software Defined Networks.
+    
+    Web Application Firewall configuration and architecture (e.g. Airlock, Netscaler)
+    
+    Identity and Access Management design and implementation (JWT, SAML, OAuth 2, OpenID Connect).
+    
+    Security related code review and auditing, in addition to conducting threat modelling, risk and vulnerability assessments as well as security evaluation to assess the security level.
+
+    Dynamic Application Security Testing (e.g. fuzzing with ZAP and Burp Suite).
