@@ -1,1 +1,1 @@
-Powered by [Modern Resume Theme](https://github.com/sproogen/modern-resume-theme/ & [jekyll-theme-hackcss](https://github.com/wemake-services/jekyll-theme-hackcss).
+Powered by [Modern Resume Theme](https://github.com/sproogen/modern-resume-theme) & [jekyll-theme-hackcss](https://github.com/wemake-services/jekyll-theme-hackcss).
