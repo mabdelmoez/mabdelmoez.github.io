@@ -17,12 +17,12 @@ linkedin_username: mabdelmoez
 about_title: About Me
 about_profile_image: assets/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  An engineer who is curious by default, providing over a decade in software and systems engineering; and specializes in security engineering | practices.
-  I worked in different companies with core businesses in file sharing, fincance, banking and e-commerce. My latest and greatest academic achievement is M.Sc. in Software and Systems Security from University of Oxford (Distinction).
-  I am open-source all the way, and I contribute to a few projects already.
-  I enjoy research, and I like to read a lot (not novels tho, I prefer to watch them). I often get lost in Wikipedia's hyperlinks and Youtube reccomendations. Howver, that time didn't go for vain, as I've gained a lot of knowledge in different fields.
-  In my free time, I enjoy building things, playing football (soccer)/squash/swimming depending on the season/mood.
-  You can call me with whatever matches this regex expression: ''^Mo(?:$|st|jo){1,}[fiav]{0,3}$''. If you are not interested to figure them all out, go for Mosti.
+  An engineer who is curious by default, providing over a decade in software and systems engineering; and specializes in security engineering | practices. 
+  I worked in different companies with core businesses in file sharing, finance, banking and e-commerce. 
+  My latest academic achievement is an M.Sc. in Software and Systems Security from the University of Oxford (Distinction). 
+  I am open-source all the way, and I contribute to a few projects already. I enjoy research, and I like to read a lot (not novels tho, I prefer to watch them). I often get lost in Wikipedia’s hyperlinks and Youtube recommendations. However, that time didn’t go in vain, as I’ve gained a lot of knowledge in different fields. 
+  In my free time, I enjoy building things, playing football (soccer)/squash/swimming depending on the season/mood. 
+  You can call me with whatever matches this regex expression: ''^Mo(?:$|st|jo){1,}[fiav]{0,3}$''. If you are not interested to figure them all out, go for, go for Mosti.
 
 experience_title: Experience
 projects_title: Projects
