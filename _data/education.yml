@@ -5,7 +5,7 @@
   qualification: # 
         Executive Masters in Business Administration
   degrees:
-        - dates: 2009-2013
+        - dates: 2022-2024
           qualification: Global EMBA
           
   #description: | # this will include new lines to allow paragraphs
@@ -25,7 +25,7 @@
 
 - layout: left
   name: University of Oxford
-  dates: 2009-2015
+  dates: 2017-2019
   qualification: # 
         M.Sc. in Software and Systems Security
   degrees:
