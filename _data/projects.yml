@@ -1,13 +1,13 @@
 # Project template
-- layout: top-middle
+- layout: left
   name: Left Shield
   link: https://en.tx.markets/post/tx-group-cyber-attacks
   quote: >
-    Create a safe browsing/e-comemrce experience for around 80% of Swiss population.
+    Create a safe browsing (and e-comemrce) experience for around 80% of Swiss population.
   description: | # this will include new lines to allow paragraphs
-    With my team, drafted, implemented, and executed varius initiatives to address security at ricardo.ch, tutti.ch, homegate.ch, and carforyou.ch.
+    With my team, drafted, implemented, and executed varius initiatives to address security, trust, and safety at ricardo.ch, tutti.ch, homegate.ch, and carforyou.ch.
 
-- layout: top-middle
+- layout: left
   name: PSD2
   link: https://www.avaloq.com/en/-/avaloq-launches-dedicated-psd2-solutions-to-help-institutions-capitalise-on-new-open-banking-era
   quote: >

@@ -1,5 +1,17 @@
 # Education Template
 - layout: left
+  name: INSEAD
+  dates: 2022-2024
+  qualification: # 
+        Executive Masters in Business Administration
+  degrees:
+        - dates: 2009-2013
+          qualification: Global EMBA
+          
+  #description: | # this will include new lines to allow paragraphs
+    #Dissertation is
+
+- layout: left
   name: University of Loughborough 
   dates: 2009-2013
   qualification: # 

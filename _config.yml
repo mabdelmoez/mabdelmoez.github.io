@@ -3,8 +3,8 @@ repository: https://www.github.com/mabdelmoez
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Mostafa AbdelMoez (Mosti)
-title: Security Expert | Mostafa AbdelMoez (Mosti Moez)
+name: Mostafa AbdelMoez Hassanin (Mosti)
+title: Security & Anti-Fraud Expert & Leader | Mostafa AbdelMoez Hassanin
 email: mosti@moez.ch
 website: https://moez.ch
 
@@ -12,17 +12,20 @@ website: https://moez.ch
 #twitter_username: mabdelmoez 
 github_username:  mabdelmoez
 linkedin_username: mabdelmoez
+twitter_username: mostility
 
 # About Section
 about_title: About Me
 about_profile_image: assets/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  An engineer who is curious by default, providing over a decade in software and systems engineering; and specializes in security engineering | practices. 
-  I worked in different companies with core businesses in file sharing, finance, banking and e-commerce. 
-  My latest academic achievement is an M.Sc. in Software and Systems Security from the University of Oxford (Distinction). 
-  I am open-source all the way, and I contribute to a few projects already. I enjoy research, and I like to read a lot (not novels tho, I prefer to watch them). I often get lost in Wikipedia’s hyperlinks and Youtube recommendations. However, that time didn’t go in vain, as I’ve gained a lot of knowledge in different fields. 
+  An engineer, expert, and leader, providing over a decade of engineering and leadership expertise in Switzerland.
+  I lead people, teams, and organizations to develop, design, implement, and improve their cybersecurity posture and capabilities, from awareness to resilience, covering culture, design, code, infrastructure, and product. 
+  I worked in different company sizes, with core businesses in Banking and Finance, File Sharing, and E-Commerce. 
+  I have contributed to authoring, developing and implementing technical industry standards and guidelines (mostly in Banking & Finance).
+  My latest academic achievement is an M.Sc. in Software and Systems Security from the University of Oxford (Distinction), and currently doing my EMBA at INSEAD (GEMBA '24).
+  I am open-source all the way, and I contribute to a few projects already. I enjoy research, and I like to read a lot. I often get lost in Wikipedia’s hyperlinks and Youtube recommendations. However, that time didn’t go in vain, as I’ve gained a lot of knowledge in different fields. 
   In my free time, I enjoy building things, playing football (soccer)/squash/swimming depending on the season/mood. 
-  You can call me with whatever matches this regex expression: ''^Mo(?:$|st|jo){1,}[fiav]{0,3}$''. If you are not interested to figure them all out, go for, go for Mosti.
+  You can call me with whatever matches this regex expression: ''^Mo(?:$|st|jo){1,}[fiav]{0,3}$''. If you are not interested to figure them all out, go for Mosti.
 
 experience_title: Experience
 projects_title: Projects
@@ -31,10 +34,11 @@ education_title: Education
 # More Section
 more_title: Skills 
 more_content: | # This will include new lines to allow paragraphs
-   Desktop, web and mobile development with a craftsman-touch and hands-on experience in software and systems security (including security architecture). 
-   An in-depth understanding of security principles and protocols. For example, symmetric & asymmetric cryptography, and crypto processing, as well as security protocols; such as key management, entity and message authentication, secure data transport, non-repudiation, secret sharing, privacy-preserving computation, backed up by a profound knowledge of industry standards and frameworks e.g. EMV, ISO 27001/2, PCI, NIST, and others. 
-   Hands-on expertise in digital forensics, reverse engineering, and malware analysis.
-   Preferred Languages: Java, Python, and C++/C
+   I possess an extensive expertise in software and systems security, and an in-depth understanding and practical experience with security concepts, principles, protocols, and standards. Along with hands-on expertise in digital forensics, reverse engineering, and malware analysis. 
+   
+   I don't only have a crafts-man touch and diverse expertise in cross platform software development and DevOps as well, but also in Business, Product, and Planning.
+   
+   Preferred Languages: Java, Python, C++/C, Go
 
 navigation:
   - text: Home
