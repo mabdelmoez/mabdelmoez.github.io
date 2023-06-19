@@ -6,9 +6,9 @@
       dates: 2022-present
 
   quote: >
-   Leading the security and anti-fraud efforts (trust and safety) for Switzerland's leading online marketplaces--15 brands.
+   Leading the security and anti-fraud efforts (trust and safety) for Switzerland's leading online marketplaces (> 15 brands).
   description: | # this will include new lines to allow paragraphs
-    Build the security and anti-fraud resilience of 15 online marketplace, protecting--and ensuring--the safety of ~1000 employees, as well as millions of end-users. 
+    Build the security and anti-fraud resilience of 15 online marketplace, protecting--and ensuring--the safety of ~1000 employees, as well as millions of customers. 
     
     The portfolio includes Real Estate (immoscout24.ch, homegate.ch, ImmoStreet.ch, home.ch, Acheter-Louer.ch), Automotive (autoscout24.ch, motoscout24.ch, Car For You), General Marketplaces (anibis.ch, tutti.ch, Ricardo.ch) and Finance and Insurance (financescout24.ch).
 
@@ -23,20 +23,16 @@
   quote: >
    Leading security, trust, and safety for TX Markets (homegate.ch, ricardo.ch, carforyou.ch, tutti.ch)
   description: | # this will include new lines to allow paragraphs
-    Design and implement various security features and fixes (Web & Mobile), and implement DevSecOps practices in the CI/CD pipeline.
+    Launch, lead and execute different initiatives across the markets, improving cybersecurity in 4 brands. E.g., "Security Guild", "Edge Security", "Extended Detection and Response", "Smooth-Prevent, Detect, React", and more. 
     
-    Launch and lead the development efforts across the markets, and lead a team of engineers to develop an IAM system, and champion security in each market.
+    Orchestrated the implementation of DevSecOps practices in the CI/CD pipeline for 4 markets.
     
-    Conduct threat modelling, and risk & vulnerability assessments, and lead the remediation of the findings in the re-design and development.
+    Conduct threat modelling, and risk & vulnerability assessments, and lead the remediation of the findings in the re-design and development, led to solid foundation and decreased incidents and operational overhead in 4 markets.
     
-    Code review and auditing (e.g., TypeScript, NodeJS, Go, C++, C\#).
+    Code review and auditing (e.g., TypeScript, NodeJS, Go, C++, C#).
     
-    Deploy an edge gateway (incl. a firewall), an IAM system, and an AI-powered fraud prevention solution into many markets.
-    
-    Launch, lead and execute different initiatives across the markets, e.g., "Security Guild", "Edge Security", "Extended Detection and Response", "Smooth-Prevent, Detect, React", and more.
-    
-    Third party management (e.g., vendors, security audits, CTF competitions, and bug bounty programs), and manage the security budget.
-    
+    Managed third parties (e.g., vendors, security audits, CTF competitions, and bug bounty programs), and the security budget.
+
 - layout: left
   company: Ricardo AG
   jobs:
@@ -44,21 +40,27 @@
       dates: 2019-2020
 
   description: | # 
-    Review and re-design different system components—additionally, develop enhancements.
-    
-    Design and develop (in NodeJS and Go) fixes and features for cryptography, IAM and session handling.
-    
-    Integrate security standards & DevSecOps practices in the CI/CD pipeline and in the day-to-day operations.
-    
-    Conduct penetration testing, security analysis (static and dynamic), as well as security auditing.
-    
-    Conduct risk & vulnerability assessments and threat modelling and remediate their findings.
-    
-    Code review and auditing (e.g., for TypeScript, NodeJS, Go, Kotlin, Swift).
-    
-    Launch and activate the Incident Response process, and BCM plan.
-    
-    Found and led the CSIRT Team.
+    Led the design and architecture of the security mechanisms for the platform serving millions of monthly active users.
+   
+    Initiated and directed different initiatives affecting enterprise, infrastructure, platform, and application security.
+   
+    Found and led the CSIRT team.
+   
+    Integrate DevSecOps practices in the CI/CD pipeline and in the day-to-day operations.
+   
+    Plan and run trainings for secure coding, ethical hacking, and the use of different security tools for >100 engineer.
+   
+    Code review and auditing (e.g., TypeScript, NodeJS, Go, Kotlin, Swift).
+   
+    Design and implement fixes and features in cryptography, IAM, and session handling, affecting hundreds of thousands of sessions.
+   
+    Deployed an edge security component mitigating high risks and decreased operating costs by an initial 20%.
+   
+    Conduct penetration testing and security analysis (static and dynamic) for more than 3 products.
+   
+    Conduct threat modelling, and risk & vulnerability assessments, and lead (and participate) in the remediation.
+   
+    Managed third parties (e.g., vendors and security audits), and managed the security budget.
 
 - layout: left
   company: Avaloq Evolution AG
@@ -68,28 +70,24 @@
     - title: Security Software Engineer 
       dates: 2016-2017
   quote: >
-   Technical lead of Web, Mobile and Core banking security.
+   Lead of Web and Mobile banking security.
   description: | # this will include new lines to allow paragraphs
-    Subject matter expert in various security domains such as cryptography, firewalls, identity and access management as well as web, mobile and hardware security.
-    
-    Architectural and technical security lead for on-boarding and employing security related initiatives, specifications, standards and protocols in the eco-system.
-    
-    Architectural and technical security lead for applying regional and international industry standards (e.g. PSD2).
-    
-    Author, localize and communicate--to stakeholders--the security concepts and reports.
-    
-    Design a distributed IAM mechanism, along with employing HSM for cryptocurrency integration.
-    
-    Design, develop and own security utilities and libraries to handle identity management, cryptography, authentication and authorization for various technology stacks (e.g. PL/SQL, J2EE, REST, SOAP, Spring, etc).
-    
-    Design, evaluate and apply cloud architecture.
-    
-    Network security and architecture incl. Network Zoning, Micro-Segregation, and Software Defined Networks.
-    
-    Web Application Firewall configuration and architecture (e.g. Airlock, Netscaler)
-    
-    Identity and Access Management design and implementation (JWT, SAML, OAuth 2, OpenID Connect).
-    
-    Security related code review and auditing, in addition to conducting threat modelling, risk and vulnerability assessments as well as security evaluation to assess the security level.
-
-    Dynamic Application Security Testing (e.g. fuzzing with ZAP and Burp Suite).
+    Subject matter expert in cryptography, security protocols, firewalls and Identity and Access Management (IAM).
+  
+    Author and implement security concepts and hardening guidelines in the products & at > 20 banks.
+  
+    Led the technical architecture and design (security) of regional & international industry standards (e.g., PSD2), as well as for applying security related specifications, standards, and protocols in the ecosystem (> 5 products).
+  
+    Design a distributed IAM mechanism, along with employing HSM for cryptocurrency integration, deployed at a few banks.
+  
+    Devise, localize, and communicate high-quality and ecosystem-wide security concepts to stakeholders and at community events.
+  
+    Perform code reviews (e.g., Java, Objective C, Kotlin, Swift, C#), penetration testing, threat modelling, and risk assessments.
+  
+    Design and implement security libraries to handle identity management, cryptography, authentication, and authorization for various technologies (PL/SQL, J2EE, REST, SOAP, Spring).
+  
+    Configure, roll-out, and tune static code analysis and dynamic application security testing tools, and remediate findings.
+  
+    Spearheaded network security and architecture (e.g., Network zoning, Micro segregation, Software-defined networks).
+  
+    Carry out security consultancy at various national and international banks (> 10 banks).
