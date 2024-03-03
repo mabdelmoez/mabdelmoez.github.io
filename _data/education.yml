@@ -3,13 +3,13 @@
   name: INSEAD
   dates: 2022-2024
   qualification: # 
-        Executive Masters in Business Administration
+        Executive Masters in Business Administration (EMBA)
   degrees:
         - dates: 2022-2024
           qualification: Global EMBA
           
-  #description: | # this will include new lines to allow paragraphs
-    #Dissertation is
+  description: | # this will include new lines to allow paragraphs
+    Final Project was [A business case on Free Space Optical communications (FSO)](). Platform for secure and robust communications for challenging environments. Grade: Distinction.
 
 - layout: left
   name: University of Loughborough 
@@ -21,7 +21,7 @@
           qualification: Bachelor's of Science in Software Engineering
           
   description: | # this will include new lines to allow paragraphs
-    Dissertation is [InterEYE: Secured Instant Web Email](). InterEYE is a gaze-input pattern-based authentication system, that grants access to a P2P web-based email client. Grade: Merit.
+    Dissertation was [InterEYE: Secured Instant Web Email](). InterEYE is a gaze-input pattern-based authentication system, that grants access to a P2P web-based email client. Grade: Merit.
 
 - layout: left
   name: University of Oxford
@@ -33,4 +33,4 @@
           qualification: Master's of Science in Software and Systems Security
           
   description: | # this will include new lines to allow paragraphs
-    Dissertation advised by Prof. Ivan Martinovic, [Automatic detection of ciphers from execution traces](). Grade: Distinction.
+    Dissertation advised by Prof. Ivan Martinovic, [Automatic detection of ciphers from execution traces](https://ora.ox.ac.uk/objects/uuid:c8f36d8c-3b3e-40bf-9b4e-7f557fef5e83). Grade: Distinction.

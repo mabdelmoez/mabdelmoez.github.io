@@ -6,11 +6,11 @@
       dates: 2022-present
 
   quote: >
-   Leading the security and anti-fraud efforts (trust and safety) for Switzerland's leading online marketplaces (> 15 brands).
+   Leading the security, trust, and safety for Switzerland's leading online marketplaces (> 15 brands).
   description: | # this will include new lines to allow paragraphs
     Build the security and anti-fraud resilience of 15 online marketplace, protecting--and ensuring--the safety of ~1000 employees, as well as millions of customers. 
     
-    The portfolio includes Real Estate (immoscout24.ch, homegate.ch, ImmoStreet.ch, home.ch, Acheter-Louer.ch), Automotive (autoscout24.ch, motoscout24.ch, Car For You), General Marketplaces (anibis.ch, tutti.ch, Ricardo.ch) and Finance and Insurance (financescout24.ch).
+    The portfolio includes Real Estate (immoscout24.ch, homegate.ch, ImmoStreet.ch, home.ch, Acheter-Louer.ch, Flatfox), Automotive (autoscout24.ch, motoscout24.ch, Car For You), General Marketplaces (anibis.ch, tutti.ch, Ricardo.ch) and Finance and Insurance (financescout24.ch).
 
 - layout: left
   company: TX Markets 
@@ -23,15 +23,19 @@
   quote: >
    Leading security, trust, and safety for TX Markets (homegate.ch, ricardo.ch, carforyou.ch, tutti.ch)
   description: | # this will include new lines to allow paragraphs
-    Launch, lead and execute different initiatives across the markets, improving cybersecurity in 4 brands. E.g., "Security Guild", "Edge Security", "Extended Detection and Response", "Smooth-Prevent, Detect, React", and more. 
+    Launch, lead and execute different initiatives across improving cybersecurity for 4 marketplaces, achieved zero downtime and increased awareness.. E.g., "Security Guild", "Edge Security", "Extended Detection and Response", "Smooth-Prevent, Detect, React", and more. 
     
-    Orchestrated the implementation of DevSecOps practices in the CI/CD pipeline for 4 markets.
+    Orchestrated DevSecOps practices in CI/CD pipeline for 4 marketplaces.
     
-    Conduct threat modelling, and risk & vulnerability assessments, and lead the remediation of the findings in the re-design and development, led to solid foundation and decreased incidents and operational overhead in 4 markets.
+    Conducted threat modeling, risk & vulnerability assessments, and led remediation efforts, resulting in a stronger security foundation and reduced incidents and operational overhead in 4 marketplaces.
     
     Code review and auditing (e.g., TypeScript, NodeJS, Go, C++, C#).
     
-    Managed third parties (e.g., vendors, security audits, CTF competitions, and bug bounty programs), and the security budget.
+    Deployed an edge gateway (including a firewall), an IAM system, and an AI-powered fraud prevention solution in 3 marketplaces. Leading a team of engineers and security champions.
+    
+    Managed third parties (e.g., vendors, audits, competitions, and bug bounty programs). 
+    
+    Managed the security budget.
 
 - layout: left
   company: Ricardo AG
@@ -40,27 +44,27 @@
       dates: 2019-2020
 
   description: | # 
-    Led the design and architecture of the security mechanisms for the platform serving millions of monthly active users.
-   
-    Initiated and directed different initiatives affecting enterprise, infrastructure, platform, and application security.
-   
-    Found and led the CSIRT team.
-   
-    Integrate DevSecOps practices in the CI/CD pipeline and in the day-to-day operations.
-   
-    Plan and run trainings for secure coding, ethical hacking, and the use of different security tools for >100 engineer.
-   
-    Code review and auditing (e.g., TypeScript, NodeJS, Go, Kotlin, Swift).
-   
-    Design and implement fixes and features in cryptography, IAM, and session handling, affecting hundreds of thousands of sessions.
-   
-    Deployed an edge security component mitigating high risks and decreased operating costs by an initial 20%.
-   
-    Conduct penetration testing and security analysis (static and dynamic) for more than 3 products.
-   
-    Conduct threat modelling, and risk & vulnerability assessments, and lead (and participate) in the remediation.
-   
-    Managed third parties (e.g., vendors and security audits), and managed the security budget.
+    Led the design and development of platform security serving millions of monthly active users.
+    
+    Initiated and directed enterprise, infrastructure, platform, and application security initiatives.
+    
+    Established an Incident Response process (incl. SOC) leading to >20% reduction in operational time.
+    
+    Integrated DevSecOps practices into the CI/CD pipeline and daily operations.
+    
+    Conducted training in secure coding, ethical hacking, and security tools for >100 engineers.
+    
+    Performed code reviews and audits in various languages, e.g., TypeScript, NodeJS, Go, Kotlin, Swift.
+    
+    Designed and implemented fixes and features in cryptography, IAM, and session handling, impacting hundreds of thousands of sessions (and users).
+    
+    Deployed an edge security component, reducing risks and operating costs by > 20%.
+    
+    Conducted penetration tests and security analysis for more than 3 products.
+    
+    Led threat modeling, risk & vulnerability assessments, and their remediation efforts.
+    
+    Managed third-party relationships, including vendors and security audits, and the security budget.
 
 - layout: left
   company: Avaloq Evolution AG
@@ -72,22 +76,22 @@
   quote: >
    Lead of Web and Mobile banking security.
   description: | # this will include new lines to allow paragraphs
-    Subject matter expert in cryptography, security protocols, firewalls and Identity and Access Management (IAM).
-  
-    Author and implement security concepts and hardening guidelines in the products & at > 20 banks.
-  
-    Led the technical architecture and design (security) of regional & international industry standards (e.g., PSD2), as well as for applying security related specifications, standards, and protocols in the ecosystem (> 5 products).
-  
-    Design a distributed IAM mechanism, along with employing HSM for cryptocurrency integration, deployed at a few banks.
-  
-    Devise, localize, and communicate high-quality and ecosystem-wide security concepts to stakeholders and at community events.
-  
-    Perform code reviews (e.g., Java, Objective C, Kotlin, Swift, C#), penetration testing, threat modelling, and risk assessments.
-  
-    Design and implement security libraries to handle identity management, cryptography, authentication, and authorization for various technologies (PL/SQL, J2EE, REST, SOAP, Spring).
-  
-    Configure, roll-out, and tune static code analysis and dynamic application security testing tools, and remediate findings.
-  
-    Spearheaded network security and architecture (e.g., Network zoning, Micro segregation, Software-defined networks).
-  
-    Carry out security consultancy at various national and international banks (> 10 banks).
+    Subject matter expert in cryptography, security protocols, firewalls, and Identity and Access Management (IAM).
+    
+    Devised and implemented security concepts and hardening guidelines used at > 20 banks.
+    
+    Led the technical architecture and design of industry standards, including PSD2, and applied security related specifications, standards, and protocols to over 5 products.
+    
+    Designed a distributed IAM mechanism using HSM for cryptocurrency integration at a few banks.
+    
+    Developed and communicated high-quality security concepts to stakeholders and community events.
+    
+    Conducted code reviews (Java, Objective C, Kotlin, Swift, C#), penetration testing, threat modeling, and risk assessments.
+    
+    Designed and implemented security libraries for identity management, cryptography, authentication, and authorization across various technologies (PL/SQL, J2EE, REST, SOAP, Spring).
+    
+    Configured, deployed, and optimized static and dynamic analysis tools, and remediated findings.
+    
+    Led network security and architecture, incl. network zoning, micro-segregation, and software-defined networks.
+    
+    Provided security consultancy to over 10 national and international banks.

@@ -4,34 +4,34 @@ repository: https://www.github.com/mabdelmoez
 
 # Personal info
 name: Mostafa AbdelMoez Hassanin (Mosti)
-title: Security & Anti-Fraud Expert & Leader | Mostafa AbdelMoez Hassanin
+title: Security, Trust, and Safety Expert & Leader | Mostafa AbdelMoez Hassanin
 email: mosti@hassanin.ch
 website: https://hassanin.ch
 
 # Social links
 github_username:  mabdelmoez
-linkedin_username: mabdelmoez
+linkedin_username: mostility
 twitter_username: mostility
 
 # About Section
 about_title: About Me
-about_profile_image: assets/profile.jpg
+about_profile_image: assets/profile-white.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Mostafa is an accomplished cybersecurity expert and leader with over a decade of experience in Switzerland. 
-  He has demonstrated solid engineering and leadership skills, guiding individuals, teams, and organizations in developing, designing, implementing, and enhancing their cybersecurity posture and capabilities.
-  Mostafa's career has encompassed both small and large corporations, predominately within the banking and finance industry, as well as file sharing and online marketplaces (e-commerce/re-commerce). 
-
-  With an educational background that includes a BS in Computer Science from the University of Loughborough, an MS in Software and Systems Security from Oxford, and a Global Executive MBA from INSEAD, Mostafa possesses a solid foundation of knowledge and scientific research. 
+  Mostafa has over a decade of information security experience in file sharing, banking, finance, and online marketplaces. 
+  He holds a B.Sc in Computer Science (Loughborough), M.Sc. Software and Systems Security (Oxford), and an Executive MBA (INSEAD). 
+  He also posseses various software and security certifications, and has received training in public and media relations as well as crisis management, backed with industry experience. 
   
-  Complementing his academic achievements, he holds various software and security certifications. Mostafa has received training in public and media relations as well as crisis management, which are backed with experience in incident/crisis management.
+  Mostafa has played a pivotal role in establishing and developing the security practices and capabilities of Switzerland's leading brands, such as Ricardo, Tutti.ch, Homegate, Immoscout24, and Autoscout24. 
+  He has also contributed significantly to the security of Switzerland's banking and finance industry, authoring security concepts, guidelines, technical standards, and overseeing their implementation and deployment. 
   
-  Mostafa is an elected Information and Communication Technology (ICT) Expert in Canton Zug, and in his current role, he is actively leading the efforts to protect hundreds of employees and millions of customers in Switzerland's largest group of online marketplaces (SMG).
-  Notably, he played a pivotal role in establishing and developing the security practices and capabilities of Switzerland's leading brands, such as Ricardo, Tutti.ch, Homegate, Immoscout24, and Autoscout24. 
-  He has also contributed significantly to the creation and implementation of security concepts, guidelines, and technical standards within the banking and finance industry.
+  Mostafa is an elected Information and Communication Technology (ICT) Expert in Canton Zug, and as a Group CISO, he's currently leading the efforts of safeguarding billions of Swiss Francs in assets, the digital safety of hundreds of employees, and the protection of millions of customers in Switzerland's largest group of online marketplaces (SMG Swiss Marketplace Group AG).
   
-  Mosti: I am fully committed to open-source software and actively contribute to multiple projects. I have a genuine passion for research and immerse myself in extensive reading. Exploring the interconnected web of knowledge through Wikipedia's hyperlinks and engaging with YouTube recommendations has proven to be time well spent, as it has broadened my understanding across various domains.
-  During my leisure hours, I find great pleasure in building things and indulging in physical activities such as football (soccer), squash, or swimming, depending on the season or my mood.
-  You can call me with whatever matches this regex expression: ''^Mo(?:$|st|jo){1,}[fiav]{0,3}$''. If you are not interested to figure them all out, go for Mosti.
+  Mosti: 
+  
+  I am fully committed to open-source software and actively contribute to multiple projects. I have a genuine passion for research and immerse myself in extensive reading. Exploring the interconnected web of knowledge through Wikipedia's hyperlinks and engaging with YouTube recommendations has proven to be time well spent, as it has broadened my understanding across various domains.
+  During my leisure hours, I find great pleasure in building things and indulging in physical activities such as football (soccer), squash, or swimming, depending on the season or the mood.
+  
+  You can call me with whatever matches this regex expression: ```^Mo(?:$|st|jo){1,}[fiav]{0,3}$```. If you are not interested to figure them all out, go for Mosti.
 
 experience_title: Experience
 projects_title: Projects
