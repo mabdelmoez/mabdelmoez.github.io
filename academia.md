@@ -17,4 +17,4 @@ Review a few submissions for the CAST-Förderpreis IT-Sicherheit 2016 (CAST-Awar
 # Publications
 
 ## 2020
-Mostafa AbdellMoez. [CipherTrace: automatic detection of ciphers from execution traces](https://ora.ox.ac.uk/objects/uuid:c8f36d8c-3b3e-40bf-9b4e-7f557fef5e83): Master's Thesis at University of Oxford, advised by Prof. Ivan Martinovic.
+Mostafa AbdellMoez Hassanin. [CipherTrace: automatic detection of ciphers from execution traces](https://ora.ox.ac.uk/objects/uuid:c8f36d8c-3b3e-40bf-9b4e-7f557fef5e83): Master's Thesis at University of Oxford, advised by Prof. Ivan Martinovic.
