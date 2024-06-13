@@ -13,3 +13,5 @@ https://swissmarketplace.group/blog/) (Aug, 2021).
 [Don’t Get Hooked: Understanding Phishing and Why It Matters](https://swissmarketplace.group/blog/understanding-phishing/) (March, 2023).
 
 [Cybersecurity 101: What Does It Encompass?](https://swissmarketplace.group/blog/cybersecurity-101/) (Feb, 2024).
+
+[Demystifying Cybersecurity Threats: An Overview](https://swissmarketplace.group/blog/cybersecurity-threats/) (April, 2024).
