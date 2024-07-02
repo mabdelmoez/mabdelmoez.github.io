@@ -15,3 +15,5 @@ https://swissmarketplace.group/blog/) (Aug, 2021).
 [Cybersecurity 101: What Does It Encompass?](https://swissmarketplace.group/blog/cybersecurity-101/) (Feb, 2024).
 
 [Demystifying Cybersecurity Threats: An Overview](https://swissmarketplace.group/blog/cybersecurity-threats/) (April, 2024).
+
+[Top Cybersecurity Strategies and cloud security misconceptions](https://globalcyberconference.com/top-cybersecurity-strategies-cloud-security-misconceptions/) (June, 2024).

@@ -24,14 +24,14 @@ about_content: | # this will include new lines to allow paragraphs
   Mostafa has played a pivotal role in establishing and developing the security practices and capabilities of Switzerland's leading brands, such as Ricardo, Anibis, Tutti.ch, Homegate, Immoscout24, and Autoscout24. 
   He has also contributed significantly to the security of Switzerland's banking and finance industry, authoring security concepts, guidelines, technical standards, and overseeing their implementation and deployment. 
   
-  Mostafa is an elected Information and Communication Technology (ICT) Expert in Canton Zug, and as a Group CISO, he's currently leading the efforts of safeguarding billions of Swiss Francs in assets, the digital safety of hundreds of employees, and the protection of millions of customers in Switzerland's largest group of online marketplaces (SMG Swiss Marketplace Group AG).
+  Mostafa is an elected Information and Communication Technology (ICT) Expert in Canton Zug, member of the Cybersecurity Committee of digitalswitzerland, and as a Group CISO, he's responsible for safeguarding the assets, digital security of employees, and that of the customers at SMG Swiss Marketplace Group AG.
   
   Mosti: 
   
-  I am fully committed to open-source software and actively contribute to multiple projects. I have a genuine passion for research and immerse myself in extensive reading. Exploring the interconnected web of knowledge through Wikipedia's hyperlinks and engaging with YouTube recommendations has proven to be time well spent, as it has broadened my understanding across various domains.
+  > I am fully committed to open-source software and actively contribute to multiple projects. I have a genuine passion for research and immerse myself in extensive reading. Exploring the interconnected web of knowledge through Wikipedia's hyperlinks and engaging with YouTube recommendations has proven to be time well spent, as it has broadened my understanding across various domains.
   During my leisure hours, I find great pleasure in building things and indulging in physical activities such as football (soccer), squash, or swimming, depending on the season or the mood.
   
-  You can call me with whatever matches this regex expression: ```^Mo(?:$|st|jo){1,}[fiav]{0,3}$```. If you are not interested to figure them all out, go for Mosti.
+  > You can call me with whatever matches this regex expression: ```^Mo(?:$|st|jo){1,}[fiav]{0,3}$```. If you are not interested to figure them all out, go for Mosti.
 
 experience_title: Experience
 projects_title: Projects
@@ -86,4 +86,3 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
   ]
-  
