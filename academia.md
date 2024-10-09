@@ -9,10 +9,29 @@ Design and implement a client-side encryption for a cloud storage platform.
 Conduct a UX driven research, addressing security in web applications. 
 The outcome of the research was launched as a service in 2013, known as SSDR (Swiss Secure Data Room).
 
-# Conferences
+# Conferences & Appearances
 
 ## IT-Security Award Reviewer @ Competence Center for Applied Security Technology (CAST) | Aug 2016, Germany
-Review a few submissions for the CAST-Förderpreis IT-Sicherheit 2016 (CAST-Award in IT-Security 2016). It is a yearly award given to outstanding master and study work in the field of IT, sponsored by CAST members.
+
+## IDM DACH | March 2024, Germany (Frankfurt)
+
+## Cloudflare Immerse  | April 2024, Germany (Munich)
+
+## IMD Resiliance Circle  | May 2024, Switzerland (Lausanne)
+
+## Okta User Group | June 2024, Switzerland (Zurich)
+
+## Information Security Network DACH | June 2024, Germany (Munich)
+
+## Re-think IAM | June 2024, Switzerland (Zurich)
+
+## AWS Media & Entertainment Day | June 2024, Switzerland (Zurich)
+
+## AWS CISO Circle | Oct 2024, Switzerland (Zurich)
+
+## Cloudflare Immerse | Nov 2024, Switzerland (Zurich)
+
+## Global Cyber Conference | Nov 2024, Switzerland (Zurich)
 
 # Publications
 
