@@ -1,7 +1,7 @@
 ---
 layout: dull
 ---
-# Blogging
+# Logging
 
 [Cyber Attacks: The TX Security Guild Point of View]() (Aug, 2021).
 
@@ -16,3 +16,5 @@ layout: dull
 [Demystifying Cybersecurity Threats: An Overview](https://swissmarketplace.group/blog/cybersecurity-threats/) (April, 2024).
 
 [Top Cybersecurity Strategies and cloud security misconceptions](https://globalcyberconference.com/top-cybersecurity-strategies-cloud-security-misconceptions/) (June, 2024).
+
+[Netzwoche Personal Interview](https://www.netzwoche.ch/interviews/2024-11-06/mostafa-hassanin-group-cisocso-swiss-marketplace-group/) (Nov, 2024).

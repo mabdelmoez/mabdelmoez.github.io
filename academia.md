@@ -9,7 +9,7 @@ Design and implement a client-side encryption for a cloud storage platform.
 Conduct a UX driven research, addressing security in web applications. 
 The outcome of the research was launched as a service in 2013, known as SSDR (Swiss Secure Data Room).
 
-# Conferences & Appearances
+# Engagements
 
 ## IT-Security Award Reviewer @ Competence Center for Applied Security Technology (CAST) | Aug 2016, Germany
 

@@ -61,8 +61,8 @@ navigation:
     url: /
   - text: Resume
     url: /resume
-  - text: Academia
-    url: /academia
+  - text: Contributions
+    url: /contributions
   - text: Skunkworks
     url: /skunkworks
 
