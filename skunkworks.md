@@ -1,7 +1,7 @@
 ---
 layout: dull
 ---
-# Logging
+# Blogging
 
 [Cyber Attacks: The TX Security Guild Point of View (EN)]() (Aug, 2021).
 
