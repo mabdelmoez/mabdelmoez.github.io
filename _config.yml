@@ -4,7 +4,7 @@ repository: https://www.github.com/mabdelmoez
 
 # Personal info
 name: Mostafa AbdelMoez Hassanin (Mosti)
-title: Security & Trust Expert & Leader | CISO/CSO | Board Advisor | Speaker | CISSP | Swiss Cybersecurity Excellence Award 2024
+title: Security & Trust Expert & Leader | CISO/CSO | Board Advisor | Speaker | Lecturer | Investor | CISSP | Swiss Cybersecurity Excellence Award 2024
 email: mosti@hassanin.ch
 website: https://hassanin.ch
 
@@ -17,21 +17,22 @@ twitter_username: mostility
 about_title: About Me
 about_profile_image: assets/profile-black.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Mostafa has over a decade of information security experience in file sharing, banking, finance, and online marketplaces. 
+  Mostafa has over a decade of information security experience in file sharing, banking, finance, consulting, and online marketplaces. 
   He holds a B.Sc in Computer Science (Loughborough), M.Sc. Software and Systems Security (Oxford), and an Executive MBA (INSEAD). 
-  He also posseses various software and security certifications, and has received and conducted trainings in public and media relations as well as crisis management, backed with extensive industry experience. 
+  He also posseses various software and security certifications, and has onducted trainings in public and media relations as well as crisis management, backed with extensive industry experience. 
   
   Mostafa has played a pivotal role in establishing and developing the security practices and capabilities of Switzerland's leading brands, such as Ricardo, Anibis, Tutti.ch, Homegate, Immoscout24, and Autoscout24. 
   He has also contributed significantly to the security of Switzerland's banking and finance industry, authoring security concepts, guidelines, technical standards, and overseeing their implementation and deployment. 
   
-  As a renowned speaker, Mostafa has appeared at various industry conferences and events, sharing his expertise and approach towards modern cybersecurity. He also actively publishes research papers and articles in information security, contributing to the broader community. 
+  Mostafa is a lecturer at the University of St. Gallen (HSG) an at the Swiss Cyber Institute. And as a renowned speaker, Mostafa has appeared at various industry conferences and events, sharing his expertise and approach towards modern cybersecurity. 
+  He also actively publishes research papers and articles in information security, contributing to the broader community. 
   
-  Mostafa was awarded the Swiss Cybersecurity Excellence Award 2024. He is an elected Information and Communication Technology (ICT) Expert in Canton Zug, member of the Cybersecurity Committee of digitalswitzerland, member of Advisory Board at InfoSec Global, and as a Group CISO/CSO, he's responsible for safeguarding the assets, digital safety of employees, and that of the customers at SMG Swiss Marketplace Group AG. 
+  Mostafa was awarded the Swiss Cybersecurity Excellence Award 2024. He is an elected Information and Communication Technology (ICT) Expert in Canton Zug, member of the Cybersecurity Committee of digitalswitzerland, member of Advisory Board at InfoSec Global. 
+  And as a Group CISO/CSO, he's responsible for safeguarding the assets, digital safety of employees, and that of the customers at SMG Swiss Marketplace Group AG. 
   
   Mosti: 
   
-  > I am fully committed to open-source software and actively contribute to multiple projects. I have a genuine passion for research and immerse myself in extensive reading. Exploring the interconnected web of knowledge through Wikipedia's hyperlinks and engaging with YouTube recommendations has proven to be time well spent, as it has broadened my understanding across various domains.
-  During my leisure hours, I find great pleasure in building things and indulging in physical activities such as football (soccer), squash, or swimming, depending on the season or the mood.
+  > I am fully committed to open-source software and actively contribute to multiple projects. I have a genuine passion for research and immerse myself in extensive reading. During my leisure hours, I find great pleasure in building things and indulging in physical activities such as football (soccer), squash, or swimming, depending on the season or the mood.
   
   > You can call me with whatever matches this regex expression: ```^Mo(?:$|st|jo){1,}[fiav]{0,3}$```. If you are not interested to figure them all out, go for Mosti.
 

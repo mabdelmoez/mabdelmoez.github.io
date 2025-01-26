@@ -33,6 +33,10 @@ The outcome of the research was launched as a service in 2013, known as SSDR (Sw
 
 ## Global Cyber Conference | Nov 2024, Switzerland (Zurich)
 
+## Re-think IAM | June 2025, Switzerland (Zurich)
+
+## Hamburger IT-Strategietage | Feb 2025, Germany (Hamburg)
+
 # Publications
 
 ## 2020
