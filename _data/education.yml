@@ -1,17 +1,5 @@
 # Education Template
 - layout: left
-  name: INSEAD
-  dates: 2022-2024
-  qualification: # 
-        Executive Masters in Business Administration (EMBA)
-  degrees:
-        - dates: 2022-2024
-          qualification: Global EMBA
-          
-  description: | # this will include new lines to allow paragraphs
-    Final Project was [A business case on Free Space Optical communications (FSO)](). Platform for secure and robust communications for challenging environments. Grade: Distinction.
-
-- layout: left
   name: University of Loughborough 
   dates: 2009-2013
   qualification: # 
@@ -34,3 +22,27 @@
           
   description: | # this will include new lines to allow paragraphs
     Dissertation advised by Prof. Ivan Martinovic, [Automatic detection of ciphers from execution traces](https://ora.ox.ac.uk/objects/uuid:c8f36d8c-3b3e-40bf-9b4e-7f557fef5e83). Grade: Distinction.
+
+- layout: left
+  name: INSEAD
+  dates: 2022-2024
+  qualification: # 
+        Executive Masters in Business Administration (EMBA)
+  degrees:
+        - dates: 2022-2024
+          qualification: Global EMBA
+          
+  description: | # this will include new lines to allow paragraphs
+    Final Project was [A business case on Free Space Optical communications (FSO)](). Platform for secure and robust communications for challenging environments. Grade: Distinction.
+
+- layout: left
+  name: IMD
+  dates: 2025
+  qualification: # 
+        Board Diploma
+  degrees:
+        - dates: 2025
+          qualification: Board Diploma
+          
+  #description: | # this will include new lines to allow paragraphs
+  #  ...
