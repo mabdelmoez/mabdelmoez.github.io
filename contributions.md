@@ -43,6 +43,8 @@ Preparing students for the Federal Diploma (Cybersecurity Specialist).
 
 ## Hamburger IT-Strategietage | Feb 2025, Germany (Hamburg)
 
+## The Connectivity Cloud Podcast - Ep. #1 | March 2025, Online ([Spotify](https://cfl.re/3F28SCu), [Apple Podcasts](https://cfl.re/3XlevSx), [YouTube](https://cfl.re/41rg02U))
+
 # Publications
 
 ## 2020
