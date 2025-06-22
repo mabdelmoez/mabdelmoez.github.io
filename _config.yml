@@ -64,8 +64,8 @@ navigation:
     url: /resume
   - text: Contributions
     url: /contributions
-  - text: Out Loud
-    url: /outloud
+  - text: Blog
+    url: /Blog
 
 # Footer
 footer_show_references: true
