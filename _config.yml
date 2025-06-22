@@ -3,7 +3,7 @@ repository: https://www.github.com/mabdelmoez
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Mostafa AbdelMoez Hassanin (Mosti)
+name: Mostafa A. Hassanin (Mosti)
 title: Security & Trust Expert & Leader | CISO/CSO | Board Advisor | Speaker | Lecturer | Investor | CISSP | Swiss Cybersecurity Excellence Award 2024
 email: mosti@hassanin.ch
 website: https://hassanin.ch
@@ -64,8 +64,8 @@ navigation:
     url: /resume
   - text: Contributions
     url: /contributions
-  - text: Skunkworks
-    url: /skunkworks
+  - text: Out Loud
+    url: /outloud
 
 # Footer
 footer_show_references: true
