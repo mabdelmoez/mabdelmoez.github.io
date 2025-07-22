@@ -21,4 +21,6 @@ layout: dull
 
 [What's expected from IT Vendors? (DE)](https://www.it-markt.ch/interviews/2024-11-13/was-die-swiss-marketplace-group-von-ihren-it-partnern-erwartet) (Nov, 2024).
 
-[What shaped the Swiss IT threat landscape in March? (DE)](https://www.swisscybersecurity.net/news/2025-04-02/was-die-schweizer-it-bedrohungslandschaft-im-maerz-gepraegt-hat) (Apr, 2025).
+[What shaped the Swiss IT threat landscape in March? (DE)](https://www.swisscybersecurity.net/news/2025-04-02/was-die-schweizer-it-bedrohungslandschaft-im-maerz-gepraegt-hat) (April, 2025).
+
+[Identity is the infrastructure for trust (EN)](https://identityweek.net/how-does-swiss-marketplace-monitor-identity-verification-across-its-whole-ecommerce-ecosystem) (June, 2025).
