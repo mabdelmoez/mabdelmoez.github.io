@@ -24,3 +24,7 @@ layout: dull
 [What shaped the Swiss IT threat landscape in March? (DE)](https://www.swisscybersecurity.net/news/2025-04-02/was-die-schweizer-it-bedrohungslandschaft-im-maerz-gepraegt-hat) (April, 2025).
 
 [Identity is the infrastructure for trust (EN)](https://identityweek.net/how-does-swiss-marketplace-monitor-identity-verification-across-its-whole-ecommerce-ecosystem) (June, 2025).
+
+[How AI Is Transforming Cybersecurity: A Conversation with SMG’s CISO (EN)](https://swissmarketplace.group/how-ai-is-transforming-cybersecurity-a-conversation-with-smgs-ciso/) (Oct, 2025).
+
+[Adaptive Security: Inside Online Marketplaces Fraud Prevention (EN)](https://swissmarketplace.group/tech-blog/risk-score-model/) (Nov, 2025).
