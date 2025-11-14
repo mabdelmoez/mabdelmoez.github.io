@@ -12,7 +12,7 @@ The outcome of the research was launched as a service in 2013, known as SSDR (Sw
 ## Lecturer @ University of St. Gallen (HSG) | Jan 2025 - present
 CAS Cyber Security für Führungskräfte (Cyber Security for Leaders)
 
-## Lecturer @ Swiss Cyber Institute | Jan 2025 - present
+## Lecturer @ Swiss Cyber Institute | Jan 2025 - Nov 2025
 Preparing students for the Federal Diploma (Cybersecurity Specialist).
 
 # Engagements
