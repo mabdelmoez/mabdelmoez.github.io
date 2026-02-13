@@ -28,3 +28,5 @@ layout: dull
 [How AI Is Transforming Cybersecurity: A Conversation with SMG’s CISO (EN)](https://swissmarketplace.group/how-ai-is-transforming-cybersecurity-a-conversation-with-smgs-ciso/) (Oct, 2025).
 
 [Adaptive Security: Inside Online Marketplaces Fraud Prevention (EN)](https://swissmarketplace.group/tech-blog/risk-score-model/) (Nov, 2025).
+
+[Interview mit Mostafa Hassanin, SMG Group CISO/CSO (DE/EN/FR)](https://swissmarketplace.group/de/blog/interview-mit-mostafa-hassanin-smg-group-ciso-cso/) (Feb, 2026).
