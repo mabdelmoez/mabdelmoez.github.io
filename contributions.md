@@ -47,6 +47,14 @@ Preparing students for the Federal Diploma (Cybersecurity Specialist).
 
 ## Re-think IAM | June 2025, Switzerland (Zurich)
 
+## Schellenberg Wittmer's Keynote | Jan 2026, Switzerland (Zurich)
+
+## SMG's Cybersecurity Day | Feb 2026, Switzerland (Zurich)
+
+## Trust & Safety Summit | March 2026, UK (London)
+
+## Identity Week Europe | June 2026, Netherlands (Amsterdam)
+
 # Publications
 
 ## 2020
